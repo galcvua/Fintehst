@@ -1,0 +1,8 @@
+{
+    "phpcs.standard": "PSR2",
+    "php-docblocker.author": {
+
+        "name": "Wowa",
+        "email": "wowa@example.com"
+    }
+}

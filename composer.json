@@ -1,0 +1,23 @@
+{
+    "name": "wowa/fintehst",
+    "description": "Test for FinTech Company",
+    "autoload": {
+        "psr-4": {
+            "Wowa\\Fintehst\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wowa",
+            "email": "wowa@gal.cv.ua"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6",
+        "vimeo/psalm": "^5.9",
+        "php-mock/php-mock-phpunit": "^2.7"
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
